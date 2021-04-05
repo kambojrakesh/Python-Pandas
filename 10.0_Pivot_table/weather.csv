@@ -1,0 +1,10 @@
+date,city,temperature,humidity
+05-01-2017,new york,65,56
+05-02-2017,new york,66,58
+05-03-2017,new york,68,60
+05-01-2017,mumbai,75,80
+05-02-2017,mumbai,78,83
+05-03-2017,mumbai,82,85
+05-01-2017,beijing,80,26
+05-02-2017,beijing,77,30
+05-03-2017,beijing,79,35
